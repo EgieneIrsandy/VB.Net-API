@@ -1,0 +1,20 @@
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan vb API\Tugas Pertemuan vb API\bin\Debug\Tugas Pertemuan vb API.exe.config
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan vb API\Tugas Pertemuan vb API\bin\Debug\Tugas Pertemuan vb API.exe
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan vb API\Tugas Pertemuan vb API\bin\Debug\Tugas Pertemuan vb API.pdb
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan vb API\Tugas Pertemuan vb API\bin\Debug\Tugas Pertemuan vb API.xml
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan vb API\Tugas Pertemuan vb API\obj\x86\Debug\Tugas_Pertemuan_vb_API.Form1.resources
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan vb API\Tugas Pertemuan vb API\obj\x86\Debug\Tugas_Pertemuan_vb_API.Resources.resources
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan vb API\Tugas Pertemuan vb API\obj\x86\Debug\Tugas Pertemuan vb API.vbproj.GenerateResource.Cache
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan vb API\Tugas Pertemuan vb API\obj\x86\Debug\Tugas Pertemuan vb API.exe
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan vb API\Tugas Pertemuan vb API\obj\x86\Debug\Tugas Pertemuan vb API.xml
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan vb API\Tugas Pertemuan vb API\obj\x86\Debug\Tugas Pertemuan vb API.pdb
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan 6_vb.net API\Tugas Pertemuan vb API\bin\Debug\Tugas Pertemuan vb API.exe.config
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan 6_vb.net API\Tugas Pertemuan vb API\obj\x86\Debug\Tugas Pertemuan vb API.exe
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan 6_vb.net API\Tugas Pertemuan vb API\obj\x86\Debug\Tugas Pertemuan vb API.xml
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan 6_vb.net API\Tugas Pertemuan vb API\obj\x86\Debug\Tugas Pertemuan vb API.pdb
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan 6_vb.net API\Tugas Pertemuan vb API\bin\Debug\Tugas Pertemuan vb API.exe
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan 6_vb.net API\Tugas Pertemuan vb API\bin\Debug\Tugas Pertemuan vb API.pdb
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan 6_vb.net API\Tugas Pertemuan vb API\bin\Debug\Tugas Pertemuan vb API.xml
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan 6_vb.net API\Tugas Pertemuan vb API\obj\x86\Debug\Tugas_Pertemuan_vb_API.Form1.resources
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan 6_vb.net API\Tugas Pertemuan vb API\obj\x86\Debug\Tugas_Pertemuan_vb_API.Resources.resources
+D:\hilih\kuliah\Semester 4\2. Integrative Programming and Technology\Tugas Pertemuan 6_vb.net API\Tugas Pertemuan vb API\obj\x86\Debug\Tugas Pertemuan vb API.vbproj.GenerateResource.Cache
